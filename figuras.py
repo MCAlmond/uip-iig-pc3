@@ -1,5 +1,4 @@
 
-
 class Figuras(object):
     lado = 0
     radio = 0
